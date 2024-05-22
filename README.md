@@ -12,14 +12,35 @@ Distribution of dataset classes
 <div style="display: flex;">
     <img src="Data\Picture2.png" alt="Image 1">
 </div>
+
 ## Results
+
 HOG feature extractor
 <div style="display: flex;">
     <img src="Data\Picture3.png" alt="Image 1">
     <img src="Data\Picture4.png" alt="Image 1">
 </div>
+
 LBP feature extractor
 <div style="display: flex;">
     <img src="Data\Picture5.png" alt="Image 1">
     <img src="Data\Picture6.png" alt="Image 1">
+</div>
+
+### Deep learning approaches
+CNN model
+<div style="display: flex;">
+    <img src="Data\Picture7.png" alt="Image 1">
+    <img src="Data\Picture8.png" alt="Image 1">
+</div>
+
+Inception-V3 
+<div style="display: flex;">
+    <img src="Data\Picture9.png" alt="Image 1">
+    <img src="Data\Picture10.png" alt="Image 1">
+</div>
+
+YOLOv8
+<div style="display: flex;">
+    <img src="Data\Picture11.png" alt="Image 1">
 </div>
