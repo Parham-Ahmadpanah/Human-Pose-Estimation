@@ -20,12 +20,13 @@ HOG feature extractor
     <img src="Data\Picture3.png" alt="Image 1">
     <img src="Data\Picture4.png" alt="Image 1">
 </div>
-
+_____________________________________________________________________________
 LBP feature extractor
 <div style="display: flex;">
     <img src="Data\Picture5.png" alt="Image 1">
     <img src="Data\Picture6.png" alt="Image 1">
 </div>
+_____________________________________________________________________________
 
 ### Deep learning approaches
 CNN model
