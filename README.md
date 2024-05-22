@@ -10,9 +10,8 @@ An instance for each class of the dataset is shown:
 </div>
 Distribution of dataset classes
 <div style="display: flex;">
-    <img src="Data\Picture2.png" alt="Image 1">
+    <img src="Data\Picture2.png" alt="Image 1" style="width: 50%;">
 </div>
-
 ## Results
 
 HOG feature extractor
