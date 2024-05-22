@@ -20,13 +20,14 @@ HOG feature extractor
     <img src="Data\Picture3.png" alt="Image 1">
     <img src="Data\Picture4.png" alt="Image 1">
 </div>
-_____________________________________________________________________________
+_______________________________________________________________________________________
+
 LBP feature extractor
 <div style="display: flex;">
     <img src="Data\Picture5.png" alt="Image 1">
     <img src="Data\Picture6.png" alt="Image 1">
 </div>
-_____________________________________________________________________________
+_______________________________________________________________________________________
 
 ### Deep learning approaches
 CNN model
@@ -34,12 +35,14 @@ CNN model
     <img src="Data\Picture7.png" alt="Image 1">
     <img src="Data\Picture8.png" alt="Image 1">
 </div>
+_______________________________________________________________________________________
 
 Inception-V3 
 <div style="display: flex;">
     <img src="Data\Picture9.png" alt="Image 1">
     <img src="Data\Picture10.png" alt="Image 1">
 </div>
+_______________________________________________________________________________________
 
 YOLOv8
 <div style="display: flex;">
